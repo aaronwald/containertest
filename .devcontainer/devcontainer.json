@@ -7,7 +7,7 @@
 	},
 	"features": {
 		"ghcr.io/devcontainers-contrib/features/ninja-asdf:2": {},
-		"ghcr.io/msclock/features/vcpkg:1": {},
+		"ghcr.io/msclock/features/vcpkg:2": {},
 		"ghcr.io/dhoeric/features/google-cloud-cli:1": {}
 	}
 
